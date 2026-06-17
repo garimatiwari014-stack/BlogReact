@@ -17,6 +17,16 @@ const App = () => {
       <li>AI in Finance and Business</li>
       <li>Future Trends in Artificial Intelligence</li>
     </ul>
+
+    <form>
+      <h4>Contact Form</h4>
+<input type="text" placeholder="Enter your name" /> 
+<input type="email" placeholder="Enter your email" />
+
+<input type="text" placeholder="Enter your message" />
+
+<button type="submit">Submit</button> 
+    </form>
     </>
 
   )
